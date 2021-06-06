@@ -23,25 +23,31 @@
     <body>
         <header>
             <nav class="navbar navbar-expand-xl sticky-top bg-dark text-white">
+            <div class="container">
+
                 <a class="navbar-brand" href="index.php">
                     <img src="asset/logo_do_an_web_final.png" alt="Logo" style="width:250px;">
                 </a>
 
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class='fas fa-comment'></i> Thông tin về chúng tôi</a>
+                        <a class="nav-link" href="#"><i class='fas fa-comment'></i> Giới thiệu về chúng tôi</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"><i class='fas fa-address-card'></i> Đăng ký</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class='fas fa-user-alt'></i> Đăng nhập</a>
+                        <a class="nav-link" href="login/login.php"><i class='fas fa-user-alt'></i> Đăng nhập</a>
                     </li>
                 </ul>
 
-                <button type="button" class="btn btn-light">
-                    <i class='fas fa-cart-plus'></i> Xem giỏ hàng 
-                    <span class="spinner-grow spinner-grow-sm"></span>
-                </button>
+                <ul class="navbar-nav ml-auto">
+                    <button type="button" class="btn btn-light">
+                        <i class='fas fa-cart-plus'></i> Xem giỏ hàng 
+                        <span class="spinner-grow spinner-grow-sm"></span>
+                    </button>
+                </ul>
+                
+            </div>
             </nav>
         </header>
