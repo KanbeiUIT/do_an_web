@@ -31,4 +31,4 @@
     <a class="carousel-control-next" href="#carousel" data-slide="next">
         <span class="carousel-control-next-icon"></span>
     </a>
-</div>
+</div><br>
