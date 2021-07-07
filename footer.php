@@ -1,5 +1,5 @@
     <!-- footer part -->
-    <footer>
+    <footer class="mt-auto">
         <div class="container-fluid w3-lime mt-4 py-5">
             <pre class="text-center"><a href="https://www.facebook.com/profile.php?id=100054432457626"><i class="fab fa-facebook-square"></i> Liên hệ fanpage</a>      <a href="tel:0389267739"><i class="fa fa-phone fa-rotate-90"></i> Điện thoại hỗ trợ - 038.926.7739</a></pre>
 
